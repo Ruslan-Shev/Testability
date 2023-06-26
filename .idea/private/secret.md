@@ -1,1 +1,1 @@
-private/
+.idea/
